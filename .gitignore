@@ -1,0 +1,7 @@
+.DS_Store
+/rollup/my-rollup-project/node_modules
+/pegJs/lambda.js
+npm-debug.log
+coverage
+dist
+.bak

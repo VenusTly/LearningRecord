@@ -1,0 +1,17 @@
+{
+  "name": "rollup example",
+  "version": "1.0.0",
+  "devDependencies": {
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-json": "^3.0.0",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  },
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
